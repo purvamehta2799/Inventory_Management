@@ -11,46 +11,25 @@ This project allows businesses to manage products, customers, stock, purchases, 
 ---
 
 
-
-\## 🚀 Features
-
-
-
-\- \*\*User Authentication\*\*: Secure login system with password verification.
-
-\- \*\*Dashboard\*\*: Navigation between modules using `CardLayout`.
-
-\- \*\*Product Management\*\*: Add, edit, and delete products with quantity and pricing details.
-
-\- \*\*Stock Management\*\*: View current stock with automatic updates after purchase/sale.
-
-\- \*\*Sales Module\*\*: Record and track sales transactions.
-
-\- \*\*Customer Management\*\*: Maintain customer details for billing and communication.
-
-\- \*\*Database Connectivity\*\*: Uses JDBC to connect to MySQL.
-
-\- \*\*Background Images \& UI Styling\*\* for a modern look.
+🚀 Features
 
 
 
----
+\-User Authentication\*\*: Secure login system with password verification.
 
+\-Dashboard\*\*: Navigation between modules using `CardLayout`.
 
+\- Product Management\*\*: Add, edit, and delete products with quantity and pricing details.
 
-\## 🖥️ Tech Stack
+\- Stock Management\*\*: View current stock with automatic updates after purchase/sale.
 
+\- Sales Module\*\*: Record and track sales transactions.
 
+\- Customer Management\*\*: Maintain customer details for billing and communication.
 
-\- \*\*Language\*\*: Java (Swing for GUI)
+\-Database Connectivity\*\*: Uses JDBC to connect to MySQL.
 
-\- \*\*Database\*\*: MySQL
-
-\- \*\*Connectivity\*\*: JDBC
-
-\- \*\*IDE\*\*: IntelliJ IDEA
-
-\- \*\*Version Control\*\*: Git
+\- Background Images \& UI Styling\*\* for a modern look.
 
 
 
@@ -58,7 +37,27 @@ This project allows businesses to manage products, customers, stock, purchases, 
 
 
 
-\## 📂 Project Structure
+ 🖥️ Tech Stack
+
+
+
+\- Language\*\*: Java (Swing for GUI)
+
+\- Database\*\*: MySQL
+
+\- Connectivity\*\*: JDBC
+
+\- IDE\*\*: IntelliJ IDEA
+
+\- Version Control\*\*: Git
+
+
+
+---
+
+
+
+📂 Project Structure
 
 src/ # All Java source files
 ├── dao/ # Database access classes
@@ -70,14 +69,14 @@ assets/ # Images, icons
 
 ---
 
-## ⚙️ Installation & Setup
+ ⚙️ Installation & Setup
 
-### 1️⃣ Prerequisites
+1️⃣ Prerequisites
 - Install [Java JDK 8+](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
 - Install [MySQL Server](https://dev.mysql.com/downloads/mysql/)
 - Install [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 
-### 2️⃣ Database Setup
+ 2️⃣ Database Setup
 1. Open MySQL and create the database:
 ```sql
 CREATE DATABASE inventory_management;
