@@ -96,14 +96,3 @@ Open the project in IntelliJ IDEA
 
 Build & run Main.java
 
-
----
-
-## **3. License**
-If you want people to freely use and modify your code, add an **MIT License** (`LICENSE` file):
-```txt
-MIT License
-
-Copyright (c) 2025 Bhargav Karande
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
