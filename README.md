@@ -88,7 +88,7 @@ Edit ConnectionFactory.java:
 
 private static final String URL = "jdbc:mysql://127.0.0.1:3306/inventory_management";
 private static final String USER = "root";
-private static final String PASSWORD = "Bsk001123@";
+private static final String PASSWORD = "root";
 
 4️⃣ Run the Project
 
